@@ -1,0 +1,1 @@
+DROP TABLE IF EXISTS sizes, category, designer, catTree, publication, pattern, hasSize CASCADE;
